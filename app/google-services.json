@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "550177864843",
+    "firebase_url": "https://fir-4036d.firebaseio.com",
+    "project_id": "fir-4036d",
+    "storage_bucket": "fir-4036d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550177864843:android:c9020374ae2ce3ef8da88e",
+        "android_client_info": {
+          "package_name": "com.example.ramosyoutubeactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550177864843-ibplg3re5imt5o96p8vhfnq5hcvmie4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJqAz9Bhk9tVBJhqSNisI6ie6ytm3AQ6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550177864843-ibplg3re5imt5o96p8vhfnq5hcvmie4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
